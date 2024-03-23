@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on the design and development of the MedasHub Portal, utilizing Confluence for documentation and Figma for UI wireframes. Employing JavaScript, HTML, CSS, and REST API, I've constructed a seamless frontend, while implementing a robust backend with Aurora DB and custom APIs, and deploying the application on AWS using S3, SQS, Lambda, and Route53.👯 I’m looking to collaborate on<br>I’m looking for help with<br>I'm currently learning about REST API development
+# About Me:
+I'm currently working on the design and development of the MedasHub Portal, utilizing Confluence for documentation and Figma for UI wireframes. Employing JavaScript, HTML, CSS, and REST APIs, I've constructed a seamless frontend, while implementing a backend with Aurora DB and custom APIs, and deploying the application on AWS using S3, SQS, Lambda, and Route53. I’m looking to collaborate on any full-stack projects<br>I'm currently learning about REST API development and AWS development.
 
 
 ## 🌐 Socials:
